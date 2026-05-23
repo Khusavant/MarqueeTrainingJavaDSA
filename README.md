@@ -1,1 +1,1 @@
-# MarqueeTrainingJavaDSA
+# Marquee Training Java DSA
